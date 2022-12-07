@@ -1,8 +1,8 @@
 /* Autores
 Luisa Maria Cardenas - 1823494
 Stefhania Noguera - 2125854
-Isabela rosero - 
-Daniel Mora - 
+Isabela rosero - 202128720
+Daniel Mora - 201841563
 */
 
 /**
